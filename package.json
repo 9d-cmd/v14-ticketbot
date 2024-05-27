@@ -1,12 +1,12 @@
 {
-  "name": "sinsi",
+  "name": "9cmd",
   "version": "1.0.0",
-  "description": "sinsi",
+  "description": "9cmd",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
   },
-  "author": "sinsi",
+  "author": "9cmd",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.16.1",
